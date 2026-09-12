@@ -2,6 +2,9 @@
 
 > A modern, responsive full-stack web application showcasing centrifugal artificial gravity simulations, flight hardware specifications, and physics telemetry developed under the NASA HUNCH (High Schools United with NASA to Create Hardware) program.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/harshannh62212-glitch/nasa-hunch-antigravity)
+[![Vercel](https://vercelbadge.vimpl.workers.dev/harshans-projects-9cb07fd2/nasa-hunch-antigravity)](https://nasa-hunch-antigravity-mbvji7w54-harshans-projects-9cb07fd2.vercel.app)
+
 ---
 
 ## 🚀 Architecture Overview
